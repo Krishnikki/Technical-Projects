@@ -1,6 +1,6 @@
 # Cricket-Data-Analytics-
 
-Author: Deepak Pant 22M0035@iitb.ac.in
+Author: Y Krishna teja 23M0036@iitb.ac.in
 
 # Problem Statement
 
