@@ -1,4 +1,5 @@
 # Air Passenger Data - Time Series Analysis - SARIMAX
+Author : Y Krishna Teja 23M0036@iitb.ac.in
 
 **Complete Video Tutorial:** https://youtu.be/H6UEywvWpn0
 
