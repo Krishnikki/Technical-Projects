@@ -1,6 +1,6 @@
 # Cricket-Data-Analytics-
 
-Author: Y Krishna teja 23M0036@iitb.ac.in
+Author: Y Krishna Teja 23M0036@iitb.ac.in
 
 # Problem Statement
 
