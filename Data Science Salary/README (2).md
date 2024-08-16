@@ -1,5 +1,5 @@
 # Data Science Salary Estimator 
-  Author: Deepak Pant 22M0035@iitb.ac.in
+  Author: Y Krishna Teja 23M0036@iitb.ac.in
 
   # Problem Statement
   In the dynamic landscape of data science, determining a competitive and equitable salary for professionals is a complex challenge. This project addresses this issue by employing advanced data science techniques to develop a salary estimation model tailored to data science roles. Leveraging a dataset consisting of over a thousand job descriptions scraped from Glassdoor, along with features quantifying skill preferences, the project seeks to create a predictive model that accurately estimates data science salaries.
