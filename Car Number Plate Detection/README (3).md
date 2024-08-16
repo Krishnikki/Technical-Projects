@@ -1,5 +1,5 @@
 # Real-Time-Number-Plate-Recognition
-Author : Deepak Pant 22M0035@iitb.ac.in
+Author : Y Krishna teja 23M0036@iitb.ac.in
 
 # **Problem Statement:**
 Real-Time Number Plate Detection and Vehicle Tracking using OpenCV
